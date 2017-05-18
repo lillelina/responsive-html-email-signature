@@ -12,6 +12,8 @@ module.exports = [
     logoAlt: 'Play. logo',
     website: 'https://playsignage.com',
     byText: 'Play is proudly made by fadeit. Read more on',
+    byWebsite: 'http://fadeit.dk',
+    byWebsiteText: 'fadeit.dk'
   },
   {
     id: 'justas',
@@ -26,6 +28,8 @@ module.exports = [
     logoAlt: 'Play. logo',
     website: 'https://playsignage.com',
     byText: 'Play is proudly made by fadeit. Read more on',
+    byWebsite: 'http://fadeit.dk',
+    byWebsiteText: 'fadeit.dk'
   },
   {
     id: 'anette',
@@ -40,5 +44,7 @@ module.exports = [
     logoAlt: 'Play. logo',
     website: 'https://playsignage.com',
     byText: 'Play is proudly made by fadeit. Read more on',
+    byWebsite: 'http://fadeit.dk',
+    byWebsiteText: 'fadeit.dk'
   }
 ]
