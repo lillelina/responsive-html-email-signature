@@ -3,3 +3,5 @@
 /tmp/
 .DS_Store
 /dist
+templates/startupspot-elina/conf.json
+templates/hhs-elina/conf.json
